@@ -1,0 +1,7 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main/main_aimcc.dart
+ASSET_PREFIX=aimcc
+BUNDLE_NAME=aimcc_app
+BUNDLE_DISPLAY_NAME=AIM Clinical Cases
+GOOGLE_AD_ID=ca-app-pub-2199018854665434~1147568664

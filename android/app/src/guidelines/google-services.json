@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "670228452895",
+    "project_id": "acp-clinical-guidelines-app",
+    "storage_bucket": "acp-clinical-guidelines-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670228452895:android:0f2208c8b66339b0e3672a",
+        "android_client_info": {
+          "package_name": "com.example.acp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5FkYAUB4FrctCbpZwbh73-vR9yByYLyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670228452895:android:276720afdb9def2ae3672a",
+        "android_client_info": {
+          "package_name": "com.example.guidelines"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5FkYAUB4FrctCbpZwbh73-vR9yByYLyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670228452895:android:64d7be3ce2f7044ce3672a",
+        "android_client_info": {
+          "package_name": "org.app.guidelines"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5FkYAUB4FrctCbpZwbh73-vR9yByYLyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig"
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main/main_annals.dart
+ASSET_PREFIX=annals
+BUNDLE_NAME=annals_app
+BUNDLE_DISPLAY_NAME=Annals of Internal Medicine
+GOOGLE_AD_ID=ca-app-pub-2199018854665434~6609570916

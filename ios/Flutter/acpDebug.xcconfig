@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_acp.dart
+ASSET_PREFIX=acp
+BUNDLE_NAME=acp_app
+BUNDLE_DISPLAY_NAME=acp_app

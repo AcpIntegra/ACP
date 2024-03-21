@@ -1,0 +1,7 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main/main_guidelines.dart
+ASSET_PREFIX=guidelines
+BUNDLE_NAME=guidelines_app
+BUNDLE_DISPLAY_NAME=guidelines_app
+GOOGLE_AD_ID=ca-app-pub-2199018854665434~4839401667

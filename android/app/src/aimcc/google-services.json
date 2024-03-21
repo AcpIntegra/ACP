@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "62215825288",
+    "project_id": "aimcc-app",
+    "storage_bucket": "aimcc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62215825288:android:e61c5d3eb27440b2cf3c3d",
+        "android_client_info": {
+          "package_name": "com.acp.aimcc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbDoeHlF6qtcMdoM1lS8cQVX7ov_Lr9i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62215825288:android:0822b81099903a56cf3c3d",
+        "android_client_info": {
+          "package_name": "com.example.acp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbDoeHlF6qtcMdoM1lS8cQVX7ov_Lr9i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62215825288:android:303cfbdde67bc302cf3c3d",
+        "android_client_info": {
+          "package_name": "com.example.aimcc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbDoeHlF6qtcMdoM1lS8cQVX7ov_Lr9i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62215825288:android:460d3ad8477ae0ebcf3c3d",
+        "android_client_info": {
+          "package_name": "org.app.aimcc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbDoeHlF6qtcMdoM1lS8cQVX7ov_Lr9i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

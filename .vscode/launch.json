@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "guidelines",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main/main_guidelines.dart",
+            "args": [
+                "--flavor",
+                "guidelines",
+                "--target",
+                "lib/main/main_guidelines.dart"
+            ]
+        },
+        {
+            "name": "annals",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main/main_annals.dart",
+            "args": [
+                "--flavor",
+                "annals",
+                "--target",
+                "lib/main/main_annals.dart"
+            ]
+        },
+        {
+            "name": "aimcc",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main/main_aimcc.dart",
+            "args": [
+                "--flavor",
+                "aimcc",
+                "--target",
+                "lib/main/main_aimcc.dart"
+            ]
+        }
+    ]
+}
